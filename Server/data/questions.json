@@ -1,0 +1,52 @@
+[
+  {
+    "id": "000",
+    "question": "What/Where/Why/When/How?",
+    "answers": ["a", "b", "c", "d"],
+    "typeAnswerA": "Normal/Fire/Water/Grass/Electric/Ice/Fighting/Poison/Ground/Flying/Psychic/Bug/Rock/Ghost/Dragon/Dark/Steel/Fairy",
+    "typeAnswerB": "Normal/Fire/Water/Grass/Electric/Ice/Fighting/Poison/Ground/Flying/Psychic/Bug/Rock/Ghost/Dragon/Dark/Steel/Fairy",
+    "typeAnswerC": "Normal/Fire/Water/Grass/Electric/Ice/Fighting/Poison/Ground/Flying/Psychic/Bug/Rock/Ghost/Dragon/Dark/Steel/Fairy",
+    "typeAnswerD": "Normal/Fire/Water/Grass/Electric/Ice/Fighting/Poison/Ground/Flying/Psychic/Bug/Rock/Ghost/Dragon/Dark/Steel/Fairy"
+  },
+  {
+    "id": "001",
+    "question": "If you were out camping by the lake, which activity would you choose?",
+    "answers": [
+      "Swimming in the lake",
+      "Taking a walk through the forest",
+      "Camping by the campfire",
+      "Sleeping"
+    ],
+    "typeAnswerA": "Water",
+    "typeAnswerB": "Grass",
+    "typeAnswerC": "Fire",
+    "typeAnswerD": "Normal"
+  },
+  {
+    "id": "002",
+    "question": "Which of the following legendary pokemons would you choose?",
+    "answers": ["Lugia", "Articuno", "Moltres", "Zapdos"],
+    "typeAnswerA": "Psychic",
+    "typeAnswerB": "Ice",
+    "typeAnswerC": "Fire",
+    "typeAnswerD": "Electric"
+  },
+  {
+    "id": "003",
+    "question": "If you had a choice of method to travel to your vacation destination, which one would you choose?",
+    "answers": ["By plane", "By boat", "Walking/running", "By train"],
+    "typeAnswerA": "Flying",
+    "typeAnswerB": "Water",
+    "typeAnswerC": "Normal",
+    "typeAnswerD": "Steel"
+  },
+  {
+    "id": "004",
+    "question": "What/Where/Why/When/How?",
+    "answers": ["a", "b", "c", "d"],
+    "typeAnswerA": "Normal/Fire/Water/Grass/Electric/Ice/Fighting/Poison/Ground/Flying/Psychic/Bug/Rock/Ghost/Dragon/Dark/Steel/Fairy",
+    "typeAnswerB": "Normal/Fire/Water/Grass/Electric/Ice/Fighting/Poison/Ground/Flying/Psychic/Bug/Rock/Ghost/Dragon/Dark/Steel/Fairy",
+    "typeAnswerC": "Normal/Fire/Water/Grass/Electric/Ice/Fighting/Poison/Ground/Flying/Psychic/Bug/Rock/Ghost/Dragon/Dark/Steel/Fairy",
+    "typeAnswerD": "Normal/Fire/Water/Grass/Electric/Ice/Fighting/Poison/Ground/Flying/Psychic/Bug/Rock/Ghost/Dragon/Dark/Steel/Fairy"
+  }
+]
