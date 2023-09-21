@@ -1,0 +1,142 @@
+[
+  {
+    "id": "000",
+    "question": "What/Where/Why/When/How?",
+    "answers": ["a", "b", "c", "d"],
+    "typeAnswer": [
+      "Normal/Fire/Water/Grass/Electric/Ice/Fighting/Poison/Ground/Flying/Psychic/Bug/Rock/Ghost/Dragon/Dark/Steel/Fairy"
+    ]
+  },
+  {
+    "id": "001",
+    "question": "If you were out camping by the lake, which activity would you choose?",
+    "answers": [
+      "Swimming in the lake",
+      "Taking a walk through the forest",
+      "Camping by the campfire",
+      "Sleeping"
+    ],
+    "typeAnswer": ["Water", "Grass", "Fire", "Normal"]
+  },
+  {
+    "id": "002",
+    "question": "Which of the following legendary pokemons would you choose?",
+    "answers": ["Lugia", "Articuno", "Moltres", "Zapdos"],
+    "typeAnswer": ["Psychic", "Ice", "Fire", "Electric"]
+  },
+  {
+    "id": "003",
+    "question": "If you had a choice of method to travel to your vacation destination, which one would you choose?",
+    "answers": ["By plane", "By boat", "Walking/running", "By train"],
+    "typeAnswer": ["Flying", "Water", "Normal", "Steel"]
+  },
+  {
+    "id": "004",
+    "question": "Which of the following festivals would you attend?",
+    "answers": [
+      "Christmas Festival",
+      "Halloween Festival",
+      "Bug Festival",
+      "Dragon Festival"
+    ],
+    "typeAnswer": ["Ice", "Ghost", "Bug", "Dragon"]
+  },
+  {
+    "id": "005",
+    "question": "Which of the following anime do you prefer?",
+    "answers": ["Fullmetal Alchemist", "Death Note", "One Piece", "Fairy Tail"],
+    "typeAnswer": ["Poison", "Ghost", "Fighting", "Fairy"]
+  },
+  {
+    "id": "006",
+    "question": "Which of the following engineering disciplines best fits you?",
+    "answers": [
+      "Electrical Engineering",
+      "Chemcial Engineering",
+      "Enviromental Engineering",
+      "Materials Engineering"
+    ],
+    "typeAnswer": ["Electric", "Poison", "Grass", "Rock"]
+  },
+  {
+    "id": "007",
+    "question": "What method of parcel delivery do you prefer?",
+    "answers": ["Gound", "Air", "Ship", "Drone"],
+    "typeAnswer": ["Ground", "Flying", "Water", "Electric"]
+  },
+  {
+    "id": "008",
+    "question": "In the anime, Avatar The Last Airbender, which bending style would best describe you?",
+    "answers": ["Fire", "Water", "Air", "Earth"],
+    "typeAnswer": ["Fire", "Water", "Flying", "Rock"]
+  },
+  {
+    "id": "009",
+    "question": "Which of the following color do you prefer?",
+    "answers": ["Black", "Dark Blue", "Pink", "Red"],
+    "typeAnswer": ["Dark", "Dragon", "Fairy", "Fighting"]
+  },
+  {
+    "id": "010",
+    "question": "Which type of dinosaur would you be?",
+    "answers": ["Pterodactyl", "Mosasaurus", "Dilophosaurus", "Indominus Rex"],
+    "typeAnswer": ["Flying", "Water", "Poison", "Fighting"]
+  },
+  {
+    "id": "011",
+    "question": "Which attack ability sounds best to you?",
+    "answers": ["Snarl", "Aeroblast", "Shadow Claw", "Moonblast"],
+    "typeAnswer": ["Dark", "Psychic", "Ghost", "Fairy"]
+  },
+  {
+    "id": "012",
+    "question": "Which attack ability sounds best to you?",
+    "answers": [
+      "Precipice Blades",
+      "Flash Cannon",
+      "Draco Meteor",
+      "X-Scissor"
+    ],
+    "typeAnswer": ["Ground", "Steel", "Dragon", "Bug"]
+  },
+  {
+    "id": "013",
+    "question": "Which of the following activities do you prefer?",
+    "answers": [
+      "Ice Fishing",
+      "Mountiain Climbing",
+      "Motorcycle Stunt Through Fire",
+      "Running"
+    ],
+    "typeAnswer": ["Ice", "Rock", "Fire", "Normal"]
+  },
+  {
+    "id": "014",
+    "question": "If you had a special power, which of the following would you choose?",
+    "answers": [
+      "Mind Reading",
+      "Walk Through Walls",
+      "Freeze Anything You Touch",
+      "Poisonous Skin"
+    ],
+    "typeAnswer": ["Psychic", "Ghost", "Ice", "Poison"]
+  },
+  {
+    "id": "015",
+    "question": "Which of the following X-Men characters would you be?",
+    "answers": ["Professor Xavier", "Magneto", "Nightcrawler", "Storm"],
+    "typeAnswer": ["Psychic", "Steel", "Dark", "Electric"]
+  },
+  {
+    "id": "016",
+    "question": "Which of the following League of Legends champion do you prefer?",
+    "answers": ["Blitzcrank", "Shyvana", "Zoe", "Kha'zix"],
+    "typeAnswer": ["Steel", "Dragon", "Fairy", "Bug"]
+  },
+  {
+    "id": "017",
+    "question": "Which of the following Naruto character do you prefer?",
+    "answers": ["Shino", "Itachi", "Gaara", "Fourth Raikage-A"],
+    "typeAnswer": ["Bug", "Dark", "Ground", "Electric"]
+  }
+]
