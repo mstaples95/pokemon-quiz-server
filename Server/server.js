@@ -15,6 +15,7 @@ app.get("/", (req, res) => {
   return res.status(200).json(fileData);
 });
 
+/* Optional: Add a post a question to existing repository?
 app.post("/", (req, res) => {
   const body = req.body;
   const newCharacter = {
@@ -31,6 +32,7 @@ app.post("/", (req, res) => {
 
   return res.status(200).json(newCharacter);
 });
+*/
 
 app.listen(port, () => {
   console.log(`Server is listening on port ${port}.`);
