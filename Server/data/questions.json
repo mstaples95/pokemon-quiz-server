@@ -1,13 +1,5 @@
 [
   {
-    "id": "000",
-    "question": "What/Where/Why/When/How?",
-    "answers": ["a", "b", "c", "d"],
-    "typeAnswer": [
-      "Normal/Fire/Water/Grass/Electric/Ice/Fighting/Poison/Ground/Flying/Psychic/Bug/Rock/Ghost/Dragon/Dark/Steel/Fairy"
-    ]
-  },
-  {
     "id": "001",
     "question": "If you were out camping by the lake, which activity would you choose?",
     "answers": [
